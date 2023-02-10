@@ -1,0 +1,18 @@
+{
+    "address": "HuBmrX3fh37t2UWi56tUkkrTv6HTiZWf5p1NcWU49heF",
+    "name": "Gazillion-aire",
+    "symbol": "AIRE",
+    "decimals": 9,
+    "logoURI": "https://github.com/NatashaDobson/Crypto/blob/main/Gazillion-aire%20Logo%20(For%20Crypto%20Ico).png",
+    "tags": [
+        "utility-token",
+        "community-token",
+        "spl-token",
+        "social-token",
+        "nft-token"
+    ],
+    "extensions": {
+        "twitter": "https://twitter.com/gazillion_aire",
+        "website": "https://gazillion-aire.com"
+    }
+}
